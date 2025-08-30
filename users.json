@@ -1,5 +1,4 @@
-{
-  "tokens": [
-    "p"
-  ]
-}
+[
+  { "username": "JunnOfficial", "password": "12345" },
+  { "username": "user1", "password": "abcde" }
+]
